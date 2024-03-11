@@ -1,0 +1,23 @@
+<Configuration ID="08481ef9-25c6-46bd-a470-51c9465242cb">
+  <Add OfficeClientEdition="64" Channel="Current">
+    <Product ID="O365ProPlusRetail">
+      <Language ID="en-us" />
+      <Language ID="hu-hu" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="Bing" />
+    </Product>
+    <Product ID="LanguagePack">
+      <Language ID="en-us" />
+      <Language ID="hu-hu" />
+      <ExcludeApp ID="Bing" />
+    </Product>
+    <Product ID="ProofingTools">
+      <Language ID="hu-hu" />
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" />
+  <RemoveMSI />
+  <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>

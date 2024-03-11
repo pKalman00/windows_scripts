@@ -10,4 +10,4 @@ A little collection of Windows scripts for setting up or cleaning a machine.
  - [Office Deployment Tool](https://learn.microsoft.com/en-us/deployoffice/overview-office-deployment-tool) (ODT) to custom install MS Office from a [preset](https://config.office.com/deploymentsettings)
 
 ## Goal
-A small package that you can have on you at all times in case you gotta help someone with a Windows machine or work on yours. You can activate Windows or Office using MAS, clean up and optimize it using CTT's winutil, quickly remove or install Office according to your needs, specified in an .xml file.
+A small package that you can have on you at all times in case you gotta help someone with a Windows machine or work on yours. You can activate Windows or Office using MAS, clean up and optimize it using CTT's winutil, quickly remove or install Office according to your needs, specified in an .xml file, using ODT.
